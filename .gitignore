@@ -1,0 +1,5 @@
+.github/instructions/kluster-code-verify.instructions.md
+.kluster
+frontened/venv/
+__pycache__/
+*.pyc

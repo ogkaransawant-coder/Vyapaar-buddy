@@ -1,0 +1,21 @@
+sku,name,unit,category,unitPrice,currentStock,reorderLevel
+SKU-001,Rice 5kg,kg,Grocery,499,100,30
+SKU-002,Wheat 5kg,kg,Grocery,443,93,21
+SKU-003,Sugar 1kg,kg,Grocery,258,190,24
+SKU-004,Oil 1L,L,Grocery,362,190,42
+SKU-005,Salt 1kg,kg,Grocery,218,154,20
+SKU-006,Milk 1L,L,Dairy,326,134,35
+SKU-007,Curd 500g,pcs,Dairy,112,145,29
+SKU-008,Paneer 200g,pcs,Dairy,313,107,11
+SKU-009,Shampoo 180ml,ml,Personal Care,267,68,34
+SKU-010,Soap Bar,pcs,Personal Care,145,141,13
+SKU-011,Face Wash 100ml,ml,Personal Care,156,26,41
+SKU-012,Cold Drink 750ml,ml,Beverages,213,141,20
+SKU-013,Juice 1L,L,Beverages,346,39,13
+SKU-014,Energy Drink 250ml,ml,Beverages,250,167,41
+SKU-015,Notebook A4,pcs,Stationery,113,59,50
+SKU-016,Ball Pen,pcs,Stationery,437,112,33
+SKU-017,Pencil Box,pcs,Stationery,308,110,38
+SKU-018,USB Cable,pcs,Electronics,41,108,21
+SKU-019,Mobile Charger,pcs,Electronics,140,22,17
+SKU-020,Earphones,pcs,Electronics,54,110,45
